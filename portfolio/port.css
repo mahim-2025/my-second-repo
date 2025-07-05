@@ -1,0 +1,19 @@
+.shuhan {
+    border: 2px solid;
+}
+.ruhan {
+    border: 2px solid;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header img {
+    width: 40px; height: 40px;
+}
+#nav {
+    display: flex;
+}
+ul {
+    list-style: none; gap: 25px;
+}
